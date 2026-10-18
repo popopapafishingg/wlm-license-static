@@ -1,0 +1,11 @@
+{
+  "format": "wlm-static-license-blob/v1",
+  "kdf": "pbkdf2-hmac-sha256",
+  "iterations": 210000,
+  "salt_b64": "vi81Mn7gBFO0oNXvecJApQ",
+  "nonce_b64": "74QVe8mMxtaaLQl-",
+  "ciphertext_b64": "MLaq5E5bL4ydzrIRxSCNd33xgEBG3KsNv1tGD3hbyrrGtwxCitQYVzJ46QP45R8mGhR3keK0BpisehRvQiErT6G4EeFtLkHkN_TykZrMPsKkQ3qG1eXnAMm845w5KINsoL_YxJtfh-50uJSkOOF0rei0viXyX5rWHb_aqjpdqRBt8DkPFiBA2Mceah_x6FN87KrOwnsZ-wBN2Gq6ih25WXFCkDeUw2tpX30bzNLduqUpkeASIdfZna-rKuKU_MvZgUpwkBiKzcxvqWKsW8XCEnRQCDRDLQdERhffY2hivq6g6SmuB0mgfk5Mq7DzbFyV-nvrCqvw30hDdeCfoWUaIh5MzaEdjTpuxXnS7I3Fc3NrjWkZDKU50vWcQw9c84VX2gR5L2vep7MRxGLeimKVldE70oU8vd-NYgpAg_Ak0jA9VXPZuHU-EshBV3ABeXACYaUwxZlsACU8hTrO",
+  "product_code": "wlm.mail.v2",
+  "edition": "V2",
+  "alg": "aes-256-gcm"
+}

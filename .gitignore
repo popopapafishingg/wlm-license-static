@@ -1,0 +1,7 @@
+﻿# Ignore anything that must never be published
+keys/
+*.pem
+*vault*
+*CODE*ONCE*
+*.env
+__pycache__/
