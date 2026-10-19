@@ -1,0 +1,11 @@
+{
+  "format": "wlm-static-license-blob/v1",
+  "kdf": "pbkdf2-hmac-sha256",
+  "iterations": 210000,
+  "salt_b64": "gDQ01sRFXJjh_zTxx1Rpnw",
+  "nonce_b64": "YKqNWuwcMo0UG8hr",
+  "ciphertext_b64": "Bs-MbS3ZKlIie2oIcjVa6YqinGXZzu78h1mfGrDxb2ZuXCyTPuBdIPkfGsYOR2bTdIRHcPEgtk3ZDb6J5JyjvSiOCpwhId_KphZW24I--iX1Fmc_tRcPfnum_wiLnRaECayG7GhBGnG6BwT8Qg60cCe5GhLHIi3wTT_GKKS4hInlgV35ztiMujMwCnpHuD5mFzufjSpv7Mlk1a5rrvABnhdTKYWBIVaS23asbtRwQPkgH5Dc-AZyzlSCbclntGgDv9wkFdSDW-Zp9XxBxBN8pJzKr24Mqs4zzHUIMJUdwjgUdwySjPwgJYphR6c0PVn_92Av4dRFwM_uSsLAjScf9qNEHF9aqjq5IpQCGEIMEp13pdpkWMzFtjBIijHiNqar_K7KsFHJ5xKj6AhyQL4H-YlocN3H3xBb9T-nUrgXaBUpAlPbp-YQxD5O_kwMU9fae6xGmfPouuYR30Lq5gMfSMcIy9OYS9Y",
+  "product_code": "wlm.mail.iphone",
+  "edition": "IPHONE",
+  "alg": "aes-256-gcm"
+}
