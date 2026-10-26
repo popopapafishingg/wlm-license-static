@@ -5,8 +5,8 @@
   "license_type": "qa",
   "next_check_at": "2026-10-26T09:06:28Z",
   "server_time": "2026-10-26T08:51:28Z",
-  "status": "active",
+  "status": "revoked",
   "valid_until": "2026-11-02T08:51:28Z",
-  "signature": "LTEkgjiT9COqXJ03rien4_sXMEic5-uyfJyOHnSkInpTgRhhKKc22E9z5l_czJGyFwOHL7Vq-iNvzH69wfVJCw",
+  "signature": "Ol1xfHKbtH7IomPgk2ehrm3NVWQT_ZeK0E05QQt3ctWJRKqC_77hHR8Q8YMvXD_gDI89I8MkM3h0QY7JrQa2Dw",
   "alg": "ed25519-v1"
 }
