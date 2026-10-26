@@ -1,0 +1,12 @@
+{
+  "format": "wlm-qa-status/v1",
+  "device_binding": "android:any",
+  "license_id": "LIC-WLM-MAIL-V2-QAPUB1",
+  "license_type": "qa",
+  "next_check_at": "2026-10-26T09:06:28Z",
+  "server_time": "2026-10-26T08:51:28Z",
+  "status": "active",
+  "valid_until": "2026-11-02T08:51:28Z",
+  "signature": "LTEkgjiT9COqXJ03rien4_sXMEic5-uyfJyOHnSkInpTgRhhKKc22E9z5l_czJGyFwOHL7Vq-iNvzH69wfVJCw",
+  "alg": "ed25519-v1"
+}
